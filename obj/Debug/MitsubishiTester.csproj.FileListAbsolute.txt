@@ -1,0 +1,16 @@
+E:\github\MitsubishiPlcProtocol\bin\Debug\MitsubishiTester.dll.config
+E:\github\MitsubishiPlcProtocol\bin\Debug\MitsubishiTester.dll
+E:\github\MitsubishiPlcProtocol\bin\Debug\MitsubishiTester.pdb
+E:\github\MitsubishiPlcProtocol\bin\Debug\System.Net.Http.dll
+E:\github\MitsubishiPlcProtocol\bin\Debug\Vila.Core.dll
+E:\github\MitsubishiPlcProtocol\bin\Debug\System.Data.SQLite.dll
+E:\github\MitsubishiPlcProtocol\bin\Debug\System.Net.Http.xml
+E:\github\MitsubishiPlcProtocol\bin\Debug\Vila.Core.pdb
+E:\github\MitsubishiPlcProtocol\bin\Debug\System.Data.SQLite.pdb
+E:\github\MitsubishiPlcProtocol\bin\Debug\System.Data.SQLite.xml
+E:\github\MitsubishiPlcProtocol\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\github\MitsubishiPlcProtocol\obj\Debug\MitsubishiTester.csprojResolveAssemblyReference.cache
+E:\github\MitsubishiPlcProtocol\obj\Debug\MitsubishiTester.csproj.CoreCompileInputs.cache
+E:\github\MitsubishiPlcProtocol\obj\Debug\MitsubishiTester.csproj.CopyComplete
+E:\github\MitsubishiPlcProtocol\obj\Debug\MitsubishiTester.dll
+E:\github\MitsubishiPlcProtocol\obj\Debug\MitsubishiTester.pdb
