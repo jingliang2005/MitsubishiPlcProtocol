@@ -71,6 +71,7 @@
     <Compile Include="Common\WeightingStepEnum.cs" />
     <Compile Include="Common\WorkRegionEnum.cs" />
     <Compile Include="Common\WorkRegionStateItem.cs" />
+    <Compile Include="ExamplesPLC\SimpleTestFX.cs" />
     <Compile Include="PLC\CellDataTypes.cs" />
     <Compile Include="PLC\FX\FxAddress.cs" />
     <Compile Include="PLC\FX\FxAddressLayoutInfo.cs" />

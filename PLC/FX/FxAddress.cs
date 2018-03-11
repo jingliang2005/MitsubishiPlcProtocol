@@ -15,10 +15,25 @@ namespace InControls.PLC.FX
 	{
 		private FxAddressLayoutType _AddressLayoutType;
 		private FxAddressType _AddressType;
-		private string _TagName;			// 符号名(支持X/Y/S/T/C/M/D),包含地址类型和偏移量
-		private int _TagOffset;				// 符号名的偏移。X/Y/S/T/C/M/D/.. 等之后的地址码
-		private uint _UniformAddr;			// 统一地址！内部地址索引（所有类型统一编址）
-		private int _BaseNumberOfXY = 8;	// 针对不同PLC控制器，X/Y符号中的地址偏移可能采用 8进制、16进制。默认 8 进制
+
+        /// <summary>
+        /// 符号名(支持X/Y/S/T/C/M/D),包含地址类型和偏移量
+        /// </summary>
+		private string _TagName;			// 
+
+        /// <summary>
+        /// 符号名的偏移。X/Y/S/T/C/M/D/.. 等之后的地址码
+        /// </summary>
+		private int _TagOffset;				// 
+        /// <summary>
+        /// 统一地址！内部地址索引（所有类型统一编址）
+        /// </summary>
+		private uint _UniformAddr;			// 
+
+        /// <summary>
+        /// 针对不同PLC控制器，X/Y符号中的地址偏移可能采用 8进制、16进制。默认 8 进制
+        /// </summary>
+		private int _BaseNumberOfXY = 8;	// 
 
 		#region 属性代码块
 		public FxAddressLayoutType AddressSpaceType
@@ -44,9 +59,13 @@ namespace InControls.PLC.FX
 		{
 			get { return _UniformAddr; }
 		}
-		#endregion
+        #endregion
 
-		public FxAddress ()
+        /// <summary>
+        /// FX/Qn系列地址描述符
+        /// 构造时需提供PLC控制器类型
+        /// </summary>
+        public FxAddress ()
 		{
 			_TagName = string.Empty;
 			_TagOffset = 0;

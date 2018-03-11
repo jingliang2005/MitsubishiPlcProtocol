@@ -6,3 +6,14 @@ E:\github\MitsubishiPlcProtocol\WindowsFormsTest\obj\Debug\WindowsFormsTest.cspr
 E:\github\MitsubishiPlcProtocol\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.CoreCompileInputs.cache
 E:\github\MitsubishiPlcProtocol\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe
 E:\github\MitsubishiPlcProtocol\WindowsFormsTest\obj\Debug\WindowsFormsTest.pdb
+E:\github\MitsubishiPlcProtocol\WindowsFormsTest\obj\Debug\WindowsFormsTest.MainForm.resources
+E:\github\MitsubishiPlcProtocol\WindowsFormsTest\obj\Debug\WindowsFormsTest.Forms.FormTestFX.resources
+E:\github\MitsubishiPlcProtocol\WindowsFormsTest\bin\Debug\MitsubishiTester.dll
+E:\github\MitsubishiPlcProtocol\WindowsFormsTest\bin\Debug\Vila.Core.dll
+E:\github\MitsubishiPlcProtocol\WindowsFormsTest\bin\Debug\System.Data.SQLite.dll
+E:\github\MitsubishiPlcProtocol\WindowsFormsTest\bin\Debug\MitsubishiTester.pdb
+E:\github\MitsubishiPlcProtocol\WindowsFormsTest\bin\Debug\MitsubishiTester.dll.config
+E:\github\MitsubishiPlcProtocol\WindowsFormsTest\bin\Debug\Vila.Core.pdb
+E:\github\MitsubishiPlcProtocol\WindowsFormsTest\bin\Debug\System.Data.SQLite.pdb
+E:\github\MitsubishiPlcProtocol\WindowsFormsTest\bin\Debug\System.Data.SQLite.xml
+E:\github\MitsubishiPlcProtocol\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.CopyComplete

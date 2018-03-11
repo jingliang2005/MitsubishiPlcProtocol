@@ -61,8 +61,8 @@ namespace InControls.PLC.FX
 		/// <returns>如果成功返回 true,否则返回 false</returns>
 		public bool Start(int portNo)
 		{
-			return Start(portNo, "115200,E,7,1");
-			//return Start(portNo, "9600,E,7,1");
+			//return Start(portNo, "115200,E,7,1");
+			return Start(portNo, "9600,E,7,1");
 		}
 
 		public bool Start(int portNo, string serialParamString)
@@ -326,7 +326,8 @@ namespace InControls.PLC.FX
 			}
 
 			#region 一次性读取 M1000-1999 ---- 目前不读取这个范围的 M 点
-			if (false) {
+			if (false)
+            {
 				cmd = FxCommandHelper.Make(FxCommandConst.FxCmdRead, new FxAddress("M1000", ControllerTypeConst.ctPLC_Fx), 32);
 				res = Send(0, cmd);
 				//Debug.Print("M1000--M1127 = {0}", res.ToString());
